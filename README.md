@@ -10,3 +10,6 @@ CLRS에 있는 알고리즘 적어도 한번씩 코드 안보고 개념만으로
 - Merge Sort
 - Merge Sort(Linked List)
 - Quick Sort(+ Randomized Quick Sort)
+
+2018-12-26
+- Quick Sort(+ Randomized Quick Sort)
